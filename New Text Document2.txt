@@ -1,2 +1,1 @@
- cd OneDrive/Desktop/git_practice/
-welcome world
+ cd OneDrive/Desktop/git_practice
